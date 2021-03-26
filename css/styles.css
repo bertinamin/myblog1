@@ -1,0 +1,144 @@
+
+
+.container {
+    background: url('../mountain.png');
+    height: 100%;
+    width: 20%;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    font-family: 'Merriweather', serif;
+}
+
+.box1 {   
+       position: relative;
+       top: 300px;
+       left: 610px;
+       
+
+}
+h1 {  
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+    position:relative;
+    bottom: 200px;
+    right: 100px;
+}
+
+.pag1 {  
+    font-size: 30px;
+    position: relative;
+    left: 150px;
+    bottom: 240px;
+   }
+   .box2 { 
+       position: relative;
+       top: 90px;
+       left: 600px;
+       font-size: 20px;
+    
+       
+   }
+   .image1 {
+    
+       border-radius: 30px;
+       width: 200px;
+       height: 200px;
+       position: relative
+       box-shadow : 2px 3px 7px 3px;
+       
+   }
+   .pag2 {
+       position: relative;
+       bottom: 25px;
+       right: 200px;
+   }
+hr {
+    color: black;
+}
+.box3 {
+    position: relative;
+    top: 100px;
+    left: 200px;
+
+}
+
+.image2 {
+    width:300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 7px 3px;
+}
+.box4 {
+    position: relative;
+    bottom: 200px;
+    left: 600px;
+}
+.image3 {
+    width:290px;
+    height: 290px;
+    border-radius:10px ;
+    box-shadow: 2px 3px 7px 3px;
+}
+.box5 {
+    position: relative;
+    bottom: 490px;
+    left: 1000px;
+
+}
+.image4 {
+    width: 290px;
+    height: 290px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 7px 3px;
+}
+.box6 {
+    font-size: 20px;
+    position: relative;
+    bottom: 450px;
+    left: 500px;
+}
+.image5 {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 400px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 7px 3px;
+}
+
+.image6 {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 100px;
+    bottom: 300px;
+border-radius: 10px;
+box-shadow: 2px 3px 7px 3px;
+
+}
+.hed1 {
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.hed2 {
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.link2 {
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.pag1 {
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.link3 {
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
